@@ -1,4 +1,4 @@
-# 🗣️ Dialect Word Mining in Turkish Speaking
+# Dialect Word Mining in Turkish Speaking
 
 This repository accompanies the final submission for the **COS7045-B Advanced Machine Learning** module. It focuses on identifying and analyzing dialect-specific vocabulary from spoken Turkish, Kurmancî (Kurdish), and Zazakî using automatic speech recognition (ASR), word mining, and graph-based knowledge representation.
 
