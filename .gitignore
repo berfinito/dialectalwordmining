@@ -1,0 +1,47 @@
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode/IDE
+.vscode/
+*.code-workspace
+
+# Audio clips (Common Voice)
+data/**/clips/
+data/**/validated*
+data/**/invalidated*
+data/**/reported*
+data/**/unvalidated*
+data/**/other.tsv
+data/**/clip_durations.tsv
+# Models (optional if large)
+models/
+*.joblib
+
+# Outputs (keep only final export if needed)
+*.png
+*.gexf
+*.csv
+outputs/**/__cache__/
+
+# Environment
+.env
+.venv/
+*.env
+*.egg-info/
+
+# Conda
+*.conda
+*.log
+
+# Zips & binaries
+*.zip
+*.tar.gz
+*.whl
+
+# OS
+.DS_Store
+Thumbs.db
